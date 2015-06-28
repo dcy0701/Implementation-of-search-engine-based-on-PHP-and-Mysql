@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="dcy">
+  <meta name="Keywords" content="嘻嘻">
+  <meta name="Description" content="查询页面">
+  <title>查询页面</title>
+ </head>
+ <body bgcolor="#e7e7e7" text="red" background="id/0.jpg">
+ <!--
+ <div>
+  <form action ="temp.php" method ="get">
+请输入关键词(用户名加关键词): <input type="text" name="content" />
+<input type ="submit" value="提交" style="width:120px;"/>
+</div>-->
+<br/>
+<br/>
+<br/>
+<div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<form action ="temp.php" method ="get"> 
+<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<big>Baidu 百度</big></h1>
+<h1>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="keyword" style="width:500px;height:50px;font-size:24px;line-height:30px;"/>
+<input type ="submit" value="百度一下" style="width:120px;height:50px;font-size:20px;line-height:30px;"/>
+</h1>
+</div>
+</body>
+</html>
